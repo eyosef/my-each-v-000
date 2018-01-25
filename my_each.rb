@@ -4,5 +4,5 @@ def my_each(words)
     yield(words[counter])
     counter += 1
   end #while loop
-    words
+    words 
 end #method
