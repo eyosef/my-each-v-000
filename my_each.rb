@@ -1,5 +1,5 @@
 def my_each(words)
   counter = 1
-  while counter <
+  while counter < counter.length
   puts word
 end #method
