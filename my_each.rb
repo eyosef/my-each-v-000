@@ -1,5 +1,5 @@
 def my_each(words)
-  counter = 1
+  counter = 0
   while counter < counter.length
     counter += 1
     puts word
